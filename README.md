@@ -1,2 +1,28 @@
-# 9eaaa7c381b8969c-content-creation-customer-supp
-Every content creation professionals needs this — most just don't know it yet.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Content Creation Customer Support Ticketing — fully configured and ready to use - Pre
+# Content Creation Customer Support Ticketing Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU14n26H4sc09aavOcZI2x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU14n26H4sc09aavOcZI2x)
+
